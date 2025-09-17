@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="40" /> My name is Hayk</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=30&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Python+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=30&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Python+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">
